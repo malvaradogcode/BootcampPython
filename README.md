@@ -15,3 +15,7 @@ Tenemos las siguientes tareas pendientes:
 1. Hacer mi primer reporte exploratorio de datos y subirlo a github ⚪
 1. Documentar cada paso de mi proceso de aprendizaje ⚪
 1. Colocar fuentes de referencia que me ayudaron a realizar mi proyecto ⚪
+
+## Referencias de apoyo
+
+- [Git Cheatsheet] (https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
