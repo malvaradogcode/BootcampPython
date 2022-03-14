@@ -16,6 +16,10 @@ Tenemos las siguientes tareas pendientes:
 1. Documentar cada paso de mi proceso de aprendizaje ⚪
 1. Colocar fuentes de referencia que me ayudaron a realizar mi proyecto ⚪
 
+## Sobre los datos utilizados en el proyecto
+
+- [Data histórica del Registro de Camas diarias disponibles y ocupadas](http://datos.susalud.gob.pe/dataset/data-hist%C3%B3rica-del-registro-de-camas-diarias-disponibles-y-ocupadas-del-formato-f5002-v2-2#{})
+
 ## Referencias de apoyo
 
 - [Git Cheatsheet] (https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
